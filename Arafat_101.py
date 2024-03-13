@@ -19,7 +19,7 @@ try:
 except ModuleNotFoundError:
         print('\n Installing missing modules ...')
         os.system('pip install requests futures==2 > /dev/null')
-        os.system('python 𝐀𝐫𝐚𝐟𝐚𝐭.py')
+        os.system('python 𝐀𝐫𝐚𝐟𝐚𝐭143.py')
 except:pass
 #__________________| ETC |__________________#
 sim_id = ''
